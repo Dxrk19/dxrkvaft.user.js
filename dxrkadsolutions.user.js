@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TwitchAdSolutions (vaft)
+// @name         DxrkAdSolutions (vaft)
 // @namespace    https://github.com/pixeltris/TwitchAdSolutions
 // @version      37.0.0
 // @description  Multiple solutions for blocking Twitch ads (vaft)
